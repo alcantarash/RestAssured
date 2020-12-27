@@ -1,0 +1,8 @@
+{
+  "nome": "$nome",
+  "cpf": $cpf,
+  "email": "$email",
+  "valor": $valor,
+  "parcelas": $parcelas,
+  "seguro": $seguro
+}
